@@ -1,0 +1,18 @@
+Audience:* RPA* * Developers
+
+Program*    duration:* 2* hours
+
+Requirements* for* Completing* * the* * Course:
+
+Pass*    the* * Knowledge* Check* in* this* module* with* a* min* 80%* score
+Fill* in* the* Feedback* Survey* available* after* exiting* this* module
+Prerequisites:* 
+
+Basic* programming* knowledge
+The* Introduction* to* the* RPA* Developer* Role* Course
+The*    Variables,* * Data* Types* * and* * Control* Flow* *Course
+The* Data* Manipulation* Course
+The* Excel* * * and* Data* * * Tables* Course
+The* UI* Interactions* Course* * 
+The* Selec   tors* Course
+The* Project* Organizat  ion* * * Course
